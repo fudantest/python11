@@ -1,0 +1,8 @@
+log日志打印-debug
+log日志打印-error
+2021-11-04 15:05:50,091-DEBUG-log_print.py-log日志收集器-日志信息:log日志打印-debug
+2021-11-04 15:05:50,091-ERROR-log_print.py-log日志收集器-日志信息:log日志打印-error
+2021-11-04 15:05:57,325-DEBUG-log_print.py-log日志收集器-日志信息:log日志打印-debug
+2021-11-04 15:05:57,325-ERROR-log_print.py-log日志收集器-日志信息:log日志打印-error
+2021-11-04 15:20:22,380-DEBUG-log_print.py-log日志收集器-日志信息:log日志打印-debug
+2021-11-04 15:20:22,380-ERROR-log_print.py-log日志收集器-日志信息:log日志打印-error

@@ -1,0 +1,458 @@
+2021-11-04 15:48:26,068-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-04 15:48:26,937-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-04 15:48:27,043-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-04 15:48:27,871-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-04 15:48:28,509-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-04 15:48:29,125-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-04 15:48:29,188-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-04 15:48:29,783-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-04 15:48:29,814-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-04 15:48:30,466-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-04 15:48:30,564-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-04 15:48:31,424-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-08 21:06:06,069-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-08 21:06:06,325-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-08 21:06:06,389-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:06:06,809-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-08 21:06:07,132-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:06:07,421-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-08 21:06:07,518-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:06:07,794-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:06:07,852-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:06:08,190-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:06:08,255-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:06:08,560-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-08 21:23:19,679-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-08 21:23:19,968-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-08 21:23:20,039-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:23:20,431-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-08 21:23:20,753-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:23:20,979-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-08 21:23:21,054-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:23:21,327-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:23:21,365-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:23:21,653-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:23:21,695-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:23:22,104-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-08 21:26:10,345-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-08 21:26:10,577-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-08 21:26:10,661-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:26:11,159-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-08 21:26:11,480-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:26:11,781-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-08 21:26:11,894-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:26:12,182-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:26:12,271-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:26:12,564-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:26:12,637-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:26:12,937-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-08 21:59:15,862-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-08 21:59:16,092-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-08 21:59:16,218-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:59:16,725-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-08 21:59:17,066-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-08 21:59:17,386-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-08 21:59:17,474-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:59:17,783-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:59:17,916-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:59:18,148-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-08 21:59:18,200-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-08 21:59:18,535-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 09:50:42,717-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 09:50:43,036-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 09:50:43,158-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 09:50:43,683-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 09:50:44,052-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 09:50:44,643-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 09:50:44,767-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 09:50:45,048-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 09:50:45,122-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 09:50:45,558-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 09:50:45,638-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 09:50:46,107-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 09:55:31,802-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 09:55:32,212-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 09:55:32,355-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 09:55:32,974-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 09:55:33,292-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 09:55:33,617-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 09:55:33,752-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 09:55:34,076-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 09:55:34,222-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 09:55:34,622-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 09:55:34,672-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 09:55:35,287-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 10:25:49,508-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 10:25:49,740-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 10:25:49,771-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:25:50,271-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 10:25:50,711-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:25:50,988-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 10:25:51,145-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:25:51,426-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:25:51,470-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:25:51,791-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:25:51,952-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:25:52,468-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 10:27:07,196-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 10:27:07,434-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 10:27:07,466-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:27:07,950-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 10:27:08,245-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:27:08,501-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 10:27:08,623-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:27:08,971-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:27:09,106-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:27:09,410-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:27:09,480-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:27:09,924-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 10:27:24,336-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 10:27:24,638-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 10:27:24,686-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:27:25,176-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 10:27:25,598-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:27:25,844-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 10:27:25,899-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:27:26,226-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:27:26,389-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:27:26,721-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:27:26,865-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:27:27,351-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 10:28:11,911-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 10:28:12,153-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 10:28:12,196-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:28:12,610-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 10:28:13,020-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 10:28:13,323-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 10:28:13,519-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:28:13,822-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:28:13,879-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:28:14,171-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 10:28:14,313-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 10:28:14,800-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 18:45:54,688-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/login?loginCall=xuezheng08%40126.com&loginPassword=913f3aa5ccc179140d8352b3e766e644&verifyCode=cookie_dict.split%28%27%3D%27%29%5B-1%5D (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D518EE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,707-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/login?loginCall=xuezheng08%40126.com&loginPassword=913f3aa5ccc179140d8352b3e766e6441&verifyCode=cookie_dict.split%28%27%3D%27%29%5B-1%5D (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D5300A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,715-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/login?loginCall=xuezheng09%40126.com&loginPassword=913f3aa5ccc179140d8352b3e766e644&verifyCode=cookie_dict.split%28%27%3D%27%29%5B-1%5D (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D530460>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,721-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/login?loginCall=xuezheng008%40126.com&loginPassword=&verifyCode=cookie_dict.split%28%27%3D%27%29%5B-1%5D (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D530460>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,729-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/mailRegister (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D530610>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,739-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/mailRegister (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D530700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,747-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /common/Guest/mailRegister (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D5304C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 18:45:54,754-ERROR-my_log.py-log日志收集器-日志信息:请求报错了HTTPSConnectionPool(host='www.apishop.net', port=443): Max retries exceeded with url: /apiStore/Product/searchProduct (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023E6D5306D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-11-09 20:18:44,723-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 20:18:45,044-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 20:18:45,182-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:18:45,745-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 20:18:46,280-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:18:46,945-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 20:18:47,120-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:18:47,446-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:18:47,613-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:18:47,889-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:18:48,068-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:18:49,659-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 20:22:10,424-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 20:22:10,730-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 20:22:10,877-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:22:11,339-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 20:22:11,791-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:22:12,145-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 20:22:12,185-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:22:12,472-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:22:12,635-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:22:12,978-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:22:13,138-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:22:13,533-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 20:42:23,805-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 20:42:24,065-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 20:42:24,173-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:42:24,750-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 20:42:25,176-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:42:25,542-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 20:42:25,704-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:42:26,039-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:42:26,085-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:42:27,291-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:42:27,450-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:42:27,919-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
+2021-11-09 20:44:00,595-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '000000'}
+2021-11-09 20:44:00,905-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120002'
+- 120001
+?      ^
++ 120002
+?      ^
+
+2021-11-09 20:44:00,936-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:44:01,362-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120003'}
+2021-11-09 20:44:01,773-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120002'}
+2021-11-09 20:44:02,120-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'000000' != '120006'
+- 000000
++ 120006
+
+2021-11-09 20:44:02,227-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:44:02,524-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120001' != '120006'
+- 120001
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:44:02,695-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:44:03,014-ERROR-my_log.py-log日志收集器-日志信息:执行用例出错'120002' != '120006'
+- 120002
+?      ^
++ 120006
+?      ^
+
+2021-11-09 20:44:03,170-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'guest', 'statusCode': '120006'}
+2021-11-09 20:44:03,518-INFO-my_log.py-log日志收集器-日志信息:获取到的结果是:{'type': 'product', 'statusCode': '000000', 'product': [], 'database': []}
